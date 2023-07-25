@@ -37,6 +37,8 @@
 
 # Ссылки на демонстрацию работы/скриншоты
 
-<img src="docs/results/screenshot_1.gif"/>
+<img src="screenshot_1.gif"/>
 
-<img src="docs/results/screenshot_2.gif"/>
+<img src="screenshot_2.gif"/>
+
+
