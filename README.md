@@ -37,12 +37,12 @@ Android Phone/Tablet, Windows
 
 # Ссылки на демонстрацию работы/скриншоты
 
-<img src="screenshot_1.gif"/>
+<img src="docs/results/screenshot_1.gif"/>
 
-<img src="screenshot_2.gif"/>
+<img src="docs/results/screenshot_2.gif"/>
 
-<img src="screenshot_3.gif"/>
+<img src="docs/results/screenshot_3.gif"/>
 
-<img src="screenshot_4.png"/> <img src="screenshot_5.png"/>
+<img src="docs/results/screenshot_4.png"/> <img src="docs/results/screenshot_5.png"/>
 
-<img src="screenshot_6.png"/> <img src="screenshot_7.png"/>
+<img src="docs/results/screenshot_6.png"/> <img src="docs/results/screenshot_7.png"/>
