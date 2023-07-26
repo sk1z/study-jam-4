@@ -1,6 +1,6 @@
 # Целевая платформа
 
-[здесь вставьте платформу/платформы под которые вы разрабатывали, это поможет нам при проверке заданий]
+Android Phone/Tablet, Windows
 
 # Результаты
 
@@ -41,4 +41,8 @@
 
 <img src="screenshot_2.gif"/>
 
+<img src="screenshot_3.gif"/>
 
+<img src="screenshot_4.png"/> <img src="screenshot_5.png"/>
+
+<img src="screenshot_6.png"/> <img src="screenshot_7.png"/>
